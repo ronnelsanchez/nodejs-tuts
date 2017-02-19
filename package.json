@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-tuts",
+  "version": "1.0.0",
+  "description": "from Nodejs tutorial. Create own server, Port, HTTP, HTML/Page display",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronnelsanchez/nodejs-tuts.git"
+  },
+  "author": "Ronnel Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronnelsanchez/nodejs-tuts/issues"
+  },
+  "homepage": "https://github.com/ronnelsanchez/nodejs-tuts#readme"
+}
